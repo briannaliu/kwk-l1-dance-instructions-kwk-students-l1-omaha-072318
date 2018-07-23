@@ -8,3 +8,5 @@ def skip_step(left)
   puts "Briefly"
 end
 
+def base_footwork
+  puts "Lift r"
