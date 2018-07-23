@@ -11,4 +11,5 @@ end
 def base_footwork
   puts "Lift right foot"
   puts "Return right foot to the ground"
-Finishing with a small skip-step backward
+  puts "Finishing with a small skip-step backward"
+end
