@@ -3,6 +3,8 @@ puts "Plant legs far apart"
 end
 
 def skip_step
-puts "skip a step (lower, bounce, briefly)"
+puts "lower"
+puts "bounce"
+puts "briefly"
 end
 
