@@ -30,6 +30,5 @@ puts "Do"
 end
 
 def bust_a_move
-  puts "Be cool"
-  puts "Be snazzy and be snazzy"
+  puts "Be cool and be snazzy"
 end
