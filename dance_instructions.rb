@@ -1,3 +1,3 @@
 def starting_stance
-puts ""
+puts "Plant legs far apart"
 end
