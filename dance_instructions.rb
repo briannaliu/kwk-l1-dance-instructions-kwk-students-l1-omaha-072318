@@ -30,5 +30,6 @@ puts "Do"
 end
 
 def bust_a_move
+  outs 
   puts "Do"
 end
