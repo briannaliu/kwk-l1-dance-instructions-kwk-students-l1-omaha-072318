@@ -3,8 +3,8 @@ def starting_stance
 end
 
 def skip_step
-puts "Lower"
-puts "Bounce"
-puts "Briefly"
+  puts "Lower"
+  puts "Bounce"
+  puts "Briefly"
 end
 
